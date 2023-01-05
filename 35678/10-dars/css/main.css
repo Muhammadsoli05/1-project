@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Flex-Items {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    background-color: rgba(44, 129, 68, 0.685);
+    width: 900px;
+    height: 500px;
+    margin: 30px auto;
+}
+
+.oq {
+    background-color: white;
+    padding: 60px 40px 40px 40px;
+    line-height: 40px;
+    height: 310px;
+    list-style: none;
+    background-image: url(../img/img-2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 0px 220px;
+}
+
+.rasm {
+    width: 35px;
+    height: 35px;
+}
+
+.birinchi {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.uchinchi {
+    font-size: 15px;
+    color: rgba(110, 114, 107, 0.74);
+}
+
+.tortinchi,.beshinch,.narx1,.oltinchi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tortinchi,.narx1 {
+    justify-content: space-between;
+}
